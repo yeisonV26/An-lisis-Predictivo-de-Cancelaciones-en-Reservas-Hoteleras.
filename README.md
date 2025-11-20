@@ -26,3 +26,5 @@ Predecir la probabilidad de cancelación de reservas hoteleras utilizando Random
 conda env create -f environment.yml
 conda activate hotel-cancellation
 jupyter notebook notebooks/
+
+Yeison Vela - www.linkedin.com/in/yeison-vela
