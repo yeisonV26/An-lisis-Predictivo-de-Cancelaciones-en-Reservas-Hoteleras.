@@ -1,7 +1,7 @@
 👨‍💻 Autor
 Yeison Vela
 Data Scientist | Especialista en Análisis Predictivo
-www.linkedin.com/in/yeison-vela | yeiasvs@gamil.com
+www.linkedin.com/in/yeison-vela | yeiasvs@gmail.com
 
 # Análisis Predictivo de Cancelaciones en Reservas Hoteleras  
 **Random Forest + Dashboard Ejecutivo en Power BI**
