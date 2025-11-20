@@ -1,3 +1,5 @@
+Yeison Vela - www.linkedin.com/in/yeison-vela
+
 # Análisis Predictivo de Cancelaciones en Reservas Hoteleras
 
 ![Banner o captura del dashboard](powerbi/screenshots/dashboard_overview.png)
@@ -26,5 +28,3 @@ Predecir la probabilidad de cancelación de reservas hoteleras utilizando Random
 conda env create -f environment.yml
 conda activate hotel-cancellation
 jupyter notebook notebooks/
-
-Yeison Vela - www.linkedin.com/in/yeison-vela
